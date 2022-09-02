@@ -1,4 +1,4 @@
-# Hello, World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a Maxim Stetsenko
+# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> I'm a Maxim Stetsenko :leaves: Frontend Developer
 
 This is the place where I opensource stuff and break things :rofl:
 
