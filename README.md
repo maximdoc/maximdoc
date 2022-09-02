@@ -33,4 +33,5 @@ Languages and Tools:
 <img align="left" alt="Sass" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" />
 <img align="left" alt="WordPress" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
 
+<br />
 
