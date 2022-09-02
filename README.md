@@ -10,16 +10,13 @@ This is the place where I opensource stuff and break things :rofl:
 <br />
 
 📫 How to reach me :arrow_down:
-- Email: maximdoc2000@gmail.com
-- LinkedIn: https://www.linkedin.com/in/maxim-stetsenko/
-- Telegram: @maximdoc
-
-📫 How to reach me :arrow_down:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/maximdoc)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/x.a.m.a.x__)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maxim-stetsenko)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maxim-stetsenko-01684923a)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
+
+<br />
 
 Languages and Tools:
 
